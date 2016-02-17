@@ -4,3 +4,7 @@
 appkey:CmPpSO7c3yeeaXag6A1iNjpzS1mRgMTf
  原始id：gh_10d71083930e
 4.http://60.174.235.164/bestpay/mobile/?c=wechat&orgid=gh_7e9d64997c41
+5$ git config --global user.name "zhaoshengloveluqingqing"
+$ git config --global user.email "530053776@qq.com"
+$ ssh-keygen -t rsa -C “530053776@qq.com”
+ssh -T git@github.com
